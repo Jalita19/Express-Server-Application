@@ -1,0 +1,15 @@
+{
+  "name": "express-server-application",
+  "version": "1.0.0",
+  "description": "mpn install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install"
+  },
+  "author": "Jalita Johnson",
+  "license": "ISC"
+}
